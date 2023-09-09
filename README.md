@@ -13,9 +13,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 <div id="badges">
     <a href="https://www.linkedin.com/in/altperson">
-    <img style="height:50px;" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-bage&logo=linkedin&logoColor=white">
+    <img style="height:30px;" alt="Static Badge" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-bage&logo=linkedin&logoColor=white">
     </a>
     <a href="https://t.me/alt_person">
-    <img style="height:50px;" alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white">
+    <img style="height:30px;" alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white">
     </a>
 </div>
