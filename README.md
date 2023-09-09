@@ -12,10 +12,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ### Socials
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/altperson">
+  <div id="linkedIn">
+    <a href="https://www.linkedin.com/in/altperson">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://t.me/alt_person">
+    </a>
+  </div>
+  <div id="telegram">
+    <a href="https://t.me/alt_person">
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white" alt="Telegram Badge"/>
-  </a>
+    </a>
+  </div>
 </div>
