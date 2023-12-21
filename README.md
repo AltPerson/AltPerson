@@ -18,7 +18,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <a href="https://t.me/alt_person">
     <img style="height:40px;" alt="Static Badge" src="https://img.shields.io/badge/Telegram-blue?style=for-the-bage&logo=telegram&logoColor=white">
     </a>
-    <a href="https://drive.google.com/file/d/1VTEU8LCocCvBUTlLO5fJ_wzJH4WeG3pW/view?usp=drive_link">
+    <a href="https://drive.google.com/file/d/1KFXC8gYMTLh9DGa4ZkUSqrk2-O20sd-t/view?usp=drive_link">
     <img style="height:40px;" alt="Static Badge" src="https://img.shields.io/badge/CV-blue?style=for-the-bage&logoColor=white">
     </a>
 </div>
